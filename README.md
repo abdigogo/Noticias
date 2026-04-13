@@ -66,7 +66,3 @@ Una aplicación web simple para buscar y mostrar noticias en tiempo real utiliza
 - **Manipulación del DOM**: Crea elementos dinámicamente para mostrar resultados
 - **Manejo de errores**: Incluye try-catch para errores de red
 - **Limpieza de resultados**: Borra resultados anteriores antes de nuevas búsquedas
-
-## Contacto
-
-Si tienes preguntas o comentarios sobre este proyecto, no dudes en contactarme.
